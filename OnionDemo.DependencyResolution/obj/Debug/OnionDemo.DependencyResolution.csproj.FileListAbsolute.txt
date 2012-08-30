@@ -1,7 +1,0 @@
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\UnionDemo\bin\Debug\UnionDemo.DependencyResolution.dll
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\UnionDemo\bin\Debug\UnionDemo.DependencyResolution.pdb
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.DependencyResolution\obj\Debug\OnionDemo.DependencyResolution.csprojResolveAssemblyReference.cache
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\bin\Debug\OnionDemo.DependencyResolution.dll
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\bin\Debug\OnionDemo.DependencyResolution.pdb
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.DependencyResolution\obj\Debug\OnionDemo.DependencyResolution.dll
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.DependencyResolution\obj\Debug\OnionDemo.DependencyResolution.pdb

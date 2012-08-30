@@ -1,5 +1,0 @@
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.Core\obj\Debug\OnionDemo.Core.csprojResolveAssemblyReference.cache
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.Core\bin\Debug\OnionDemo.Core.dll
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.Core\bin\Debug\OnionDemo.Core.pdb
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.Core\obj\Debug\OnionDemo.Core.dll
-D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo.Core\obj\Debug\OnionDemo.Core.pdb
