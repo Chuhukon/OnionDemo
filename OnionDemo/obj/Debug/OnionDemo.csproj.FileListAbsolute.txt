@@ -1,0 +1,8 @@
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\obj\Debug\OnionDemo.csprojResolveAssemblyReference.cache
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\bin\Debug\OnionDemo.exe.config
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\bin\Debug\OnionDemo.exe
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\bin\Debug\OnionDemo.pdb
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\bin\Debug\OnionDemo.Core.dll
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\bin\Debug\OnionDemo.Core.pdb
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\obj\Debug\OnionDemo.exe
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\OnionDemo\obj\Debug\OnionDemo.pdb

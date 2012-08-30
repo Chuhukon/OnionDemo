@@ -1,0 +1,11 @@
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\bin\Debug\UnionDemo.exe.config
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\bin\Debug\UnionDemo.exe
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\bin\Debug\UnionDemo.pdb
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\bin\Debug\UnionDemo.Core.dll
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\bin\Debug\UnionDemo.Core.pdb
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\obj\Debug\UnionDemo.csprojResolveAssemblyReference.cache
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\obj\Debug\UnionDemo.exe
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo\obj\Debug\UnionDemo.pdb
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\UnionDemo\bin\Debug\UnionDemo.exe.config
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\UnionDemo\obj\Debug\UnionDemo.exe
+D:\MyDocs\Visual Studio 2012\Projects\OnionDemo\UnionDemo\obj\Debug\UnionDemo.pdb

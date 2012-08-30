@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionDemo", "OnionDemo\OnionDemo.csproj", "{CFECA34E-E968-4EED-A6DE-5AA8EF1C8D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionDemo.Core", "OnionDemo.Core\OnionDemo.Core.csproj", "{1346C1B7-2AC9-4F0F-9073-E8D6FCC4E866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onion.Infrastructure", "Onion.Infrastructure\Onion.Infrastructure.csproj", "{77E26998-167C-4761-B4C4-FD5839BEAB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnionDemo.DependencyResolution", "OnionDemo.DependencyResolution\OnionDemo.DependencyResolution.csproj", "{A908EDF9-1DCF-4B1E-B512-D1C6157FB1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFECA34E-E968-4EED-A6DE-5AA8EF1C8D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFECA34E-E968-4EED-A6DE-5AA8EF1C8D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFECA34E-E968-4EED-A6DE-5AA8EF1C8D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFECA34E-E968-4EED-A6DE-5AA8EF1C8D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1346C1B7-2AC9-4F0F-9073-E8D6FCC4E866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1346C1B7-2AC9-4F0F-9073-E8D6FCC4E866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1346C1B7-2AC9-4F0F-9073-E8D6FCC4E866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1346C1B7-2AC9-4F0F-9073-E8D6FCC4E866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E26998-167C-4761-B4C4-FD5839BEAB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E26998-167C-4761-B4C4-FD5839BEAB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E26998-167C-4761-B4C4-FD5839BEAB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E26998-167C-4761-B4C4-FD5839BEAB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A908EDF9-1DCF-4B1E-B512-D1C6157FB1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A908EDF9-1DCF-4B1E-B512-D1C6157FB1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A908EDF9-1DCF-4B1E-B512-D1C6157FB1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A908EDF9-1DCF-4B1E-B512-D1C6157FB1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

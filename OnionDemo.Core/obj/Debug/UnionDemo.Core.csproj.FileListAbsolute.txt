@@ -1,0 +1,5 @@
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo.Core\bin\Debug\UnionDemo.Core.dll
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo.Core\bin\Debug\UnionDemo.Core.pdb
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo.Core\obj\Debug\UnionDemo.Core.csprojResolveAssemblyReference.cache
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo.Core\obj\Debug\UnionDemo.Core.dll
+d:\mydocs\visual studio 2012\Projects\UnionDemo\UnionDemo.Core\obj\Debug\UnionDemo.Core.pdb
